@@ -20,7 +20,7 @@ I love creating scalable web applications and learning new technologies. Focused
 > Full-featured accounting web application tailored to the Tunisian accounting system. Includes modules for expense tracking, income, payroll, tax reports, and PDF financial statements.  
 > **Stack:** React.js, Node.js, Express, MongoDB
 
-### 🛒 **Electronics E-commerce Website**  
+### 🛒 **TechGear E-commerce Website**  
 > A complete e-commerce web platform for an electronics store, built using a microservices backend architecture with **Eureka** and **API Gateway**.  
 > **Stack:** Angular, Spring Boot, MySQL, Docker
 
