@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ali Maalej
+# 👋 Hi there! I'm Mohamed Ali Maalej
 
 ### 💻 Full Stack Developer | Software Engineer | Tech Enthusiast  
 I love creating scalable web applications and learning new technologies. Focused on building clean, maintainable solutions with modern web stacks.
