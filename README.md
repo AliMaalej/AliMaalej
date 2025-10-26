@@ -24,6 +24,12 @@ I love creating scalable web applications and learning new technologies. Focused
 > A complete e-commerce web platform for an electronics store, built using a microservices backend architecture with **Eureka** and **API Gateway**.  
 > **Stack:** Angular, Spring Boot, MySQL, Node.js, Express, MongoDB, Docker
 
+### 💊 **HealUp – Comprehensive Health Management Platform**
+
+> A modern, all-in-one platform that empowers individuals to take control of their health journey through intelligent tracking and personalized insights.
+> Features include health dashboards, event management, nutrition tracking, and real-time analytics — all wrapped in a clean, responsive interface.
+> **Stack:** Laravel 12.x, PHP 8.2+, Tailwind CSS, Alpine.js, Livewire, Flask
+
 ---
 
 ## 🧰 Tech Stack
