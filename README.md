@@ -18,17 +18,27 @@ I love creating scalable web applications and learning new technologies. Focused
 
 ### 🧾 **Kanz** – Accounting Management Web App  
 > Full-featured accounting web application tailored to the Tunisian accounting system. Includes modules for expense tracking, income, payroll, tax reports, and PDF financial statements.  
-> **Stack:** React.js, Node.js, Express, MongoDB
+> **Stack:** React.js, Node.js, Express, MongoDB  
 
 ### 🛒 **TechGear E-commerce Website**  
 > A complete e-commerce web platform for an electronics store, built using a microservices backend architecture with **Eureka** and **API Gateway**.  
-> **Stack:** Angular, Spring Boot, MySQL, Node.js, Express, MongoDB, Docker
+> **Stack:** Angular, Spring Boot, MySQL, Node.js, Express, MongoDB, Docker  
 
-### 💊 **HealUp – Comprehensive Health Management Platform**
+### 💊 **HealUp – Comprehensive Health Management Platform**  
+> A modern, all-in-one platform that empowers individuals to take control of their health journey through intelligent tracking and personalized insights.  
+> Features include health dashboards, event management, nutrition tracking, and real-time analytics — all wrapped in a clean, responsive interface.  
+> **Stack:** Laravel 12.x, PHP 8.2+, Tailwind CSS, Alpine.js, Livewire, Flask  
 
-> A modern, all-in-one platform that empowers individuals to take control of their health journey through intelligent tracking and personalized insights.
-> Features include health dashboards, event management, nutrition tracking, and real-time analytics — all wrapped in a clean, responsive interface.
-> **Stack:** Laravel 12.x, PHP 8.2+, Tailwind CSS, Alpine.js, Livewire, Flask
+### 🚀 **DevOps Project – CI/CD Pipeline for Spring Boot Application**  
+> A practical implementation of **DevOps principles** on a Spring Boot application to streamline development, testing, and deployment workflows.  
+> Implements **CI/CD with Jenkins**, **containerization with Docker**, **automated testing with JUnit**, and **monitoring via Grafana & SonarQube**.  
+> **Stack / Tools:** Java 11, Spring Boot, MySQL, Docker, Jenkins, SonarQube, Grafana, Maven, Vagrant  
+
+### 🧠 **ARGUS – AI-Powered Intelligent Security Platform**  
+> An **AI-driven surveillance system** built with **Django + Python**, integrating advanced computer vision and automation capabilities.  
+> I developed the **Object Detection** module using **YOLOv5**, along with intuitive interfaces to detect objects from **uploaded images**, **video files**, or **live camera streams** (including security camera feeds).  
+> The platform combines facial recognition, emotion analysis, and real-time alerts to enhance modern security monitoring.  
+> **Stack / Tools:** Django, Python 3.13, DeepFace, OpenCV, YOLOv5, MediaPipe, Bootstrap 5, SQLite
 
 ---
 
